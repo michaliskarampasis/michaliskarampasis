@@ -1,16 +1,21 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=mkarampasis&color=green&label=Profile+Views)
 
-<!--
-**michaliskarampasis/michaliskarampasis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+![the_office](images/welcome_to_the_office.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 About Me
+
+- Hello, I'm Michalis! 👨‍💻 
+
+- I currently serve as a Reporting Engineer at [Qualco](https://www.qualco.eu/)
+
+### 🎓 Academic Background
+
+- MSc in Data Science Athens University of Economics and Business
+  
+- BSc in Applied Mathematics from the University of Athens
+
+### 📫 Contact me 
+
+- mixaliskarabasis@gmail.com
