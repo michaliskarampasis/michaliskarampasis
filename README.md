@@ -10,7 +10,7 @@
 
 ### 🎓 Academic Background
 
-- MSc in Data Science Athens University of Economics and Business
+- MSc in Data Science from the Athens University of Economics and Business
   
 - BSc in Applied Mathematics from the University of Athens
 
