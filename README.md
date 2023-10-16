@@ -2,8 +2,6 @@
 
 ## 🚀 Welcome to my GitHub profile! 
 
-![the_office](images/welcome_to_the_office.gif)
-
 ### 👋 About Me
 
 - Hello, I'm Michalis! 👨‍💻 
@@ -16,6 +14,7 @@
   
 - BSc in Applied Mathematics from the University of Athens
 
-### 📫 Contact me 
+### 📫 How to contact me 
 
 - mixaliskarabasis@gmail.com
+- [www.linkedin.com/in/michaliskarampasis/] (https://www.linkedin.com/in/michaliskarampasis/)
