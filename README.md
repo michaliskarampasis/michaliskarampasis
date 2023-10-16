@@ -17,4 +17,4 @@
 ### 📫 How to contact me 
 
 - mixaliskarabasis@gmail.com
-- [www.linkedin.com/in/michaliskarampasis/] (https://www.linkedin.com/in/michaliskarampasis/)
+- www.linkedin.com/in/michaliskarampasis/
