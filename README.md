@@ -14,7 +14,7 @@
   
 - BSc in Applied Mathematics from the University of Athens
 
-### 📫 How to contact me 
+### 📫 How to Contact Me 
 
 - mixaliskarabasis@gmail.com
 - www.linkedin.com/in/michaliskarampasis/
